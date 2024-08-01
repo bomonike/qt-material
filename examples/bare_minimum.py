@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+# SPDX-License-Identifier: MPL-2.0
+
 import sys
 
 from PySide6 import QtWidgets
